@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **sureshk4.info@gmail.com**
 
-<h3 align="left">Connect with me: </h3>[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/skk369/)
+<h3 align="left">Connect with me: </h3>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/skk369/)
 <p align="left">
 </p>
 
