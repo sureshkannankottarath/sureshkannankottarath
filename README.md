@@ -2,7 +2,8 @@
 <h3 align="center">A passionate project manager from India</h3>
 <p align="center">
 - 🔭 I’m currently working @ [Finekube](https://finekube.com/)
-
+</p>
+<p align="center">
 - 📫 How to reach me **sureshk4.info@gmail.com**
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sureshkannankottarath&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkannankottarath" /> </p>
